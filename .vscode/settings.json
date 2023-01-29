@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "interface.h": "c",
+        "sqlite3.h": "c",
+        "stdlib.h": "c"
+    }
+}
